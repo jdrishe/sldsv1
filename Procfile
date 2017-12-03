@@ -1,0 +1,1 @@
+web: java -jar target/SLDS_Dec1_2017.jar
